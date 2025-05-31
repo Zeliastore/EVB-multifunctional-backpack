@@ -1,24 +1,14 @@
-# 🏠 Multifunctional Mop Holder - Landing Page
+# 🎒 EVB Melody Backpack - Premium Landing Page
+Landing page premium untuk produk tas multifungsi EVB Melody Backpack yang dirancang khusus untuk target audience Indonesia usia 20-40 tahun.
+🚀 Demo Live
+Lihat Demo
+✨ Fitur Utama
+🎨 Design & Animasi
 
-Landing page premium untuk produk Multifunctional Mop Holder dengan fitur lengkap dan desain modern.
-
-## ✨ Fitur
-
-- 🎨 Desain responsive dan modern
-- ⏰ Countdown timer real-time
-- 📊 Dynamic counters (viewers, stock)
-- 📱 Mobile-friendly
-- 🚀 Optimized untuk konversi tinggi
-- 💬 Integrasi WhatsApp direct order
-
-## 🔗 Demo
-
-Lihat live demo: [https://username.github.io/mop-holder-landing-page](https://username.github.io/mop-holder-landing-page)
-
-## 🚀 Deployment
-
-Project ini sudah siap deploy ke GitHub Pages secara otomatis.
-
+-Modern Premium Design dengan gradient backgrounds
+-Smooth Animations dan hover effects
+-Glass Morphism effects pada UI elements
+-Responsive Design untuk semua device
 ## 📞 Kontak
 
 WhatsApp: +62 878-8663-5076
